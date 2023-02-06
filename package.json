@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-medooze",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Medooze eslint config",
   "repository": {
     "type": "git",
