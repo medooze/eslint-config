@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-medooze",
+  "version": "0.0.0",
+  "description": "Medooze eslint config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medooze/eslint-config.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/medooze/eslint-config/issues"
+  },
+  "homepage": "https://github.com/medooze/eslint-config#readme",
+  "eslintConfig": {
+    "extends": [
+      "./.eslintrc.js"
+    ]
+  },
+  "dependencies": {
+    "eslint-plugin-medooze": "^1.2.0"
+  }
+}
